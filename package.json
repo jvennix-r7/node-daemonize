@@ -12,7 +12,7 @@
         "node": "0.6.x"
     },
     "dependencies": {
-        "coffee-script"       : "1.6.3",
+        "coffee-script" : "1.6.3"
     },
     "main": "./lib/daemonize.js",
     "scripts": {
